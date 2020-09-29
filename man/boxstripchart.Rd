@@ -1,6 +1,6 @@
 \name{boxstripchart}
-\alias{box_stripchart}
-\title{boxplot_stripchart}
+\alias{boxstripchart}
+\title{boxplotstripchart}
 \usage{
 boxstripchart(y, x, ...)
 }

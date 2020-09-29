@@ -1,1 +1,7 @@
+
+importFrom("grDevices", "col2rgb", "rgb")
+importFrom("graphics", "axis", "box", "boxplot", "points", "text")
+importFrom("stats", "quantile", "terms")
+importFrom("utils", "modifyList")
+
 exportPattern("^[[:alpha:]]+")
