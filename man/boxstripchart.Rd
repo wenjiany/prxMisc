@@ -1,0 +1,14 @@
+\name{boxstripchart}
+\alias{box_stripchart}
+\title{boxplot_stripchart}
+\usage{
+boxstripchart(y, x, ...)
+}
+\description{
+plot boxplot and scatter points from stripchart
+}
+\examples{
+y <- rnorm(100)
+x <- sample(c(0,1), 100, replace=TRUE)
+boxstripchart(y, x)
+}
